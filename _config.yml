@@ -28,7 +28,7 @@ github_username: repooley
 
 
 # Build settings
-theme: minima
+theme: architect
 plugins:
   - jekyll-feed
 
