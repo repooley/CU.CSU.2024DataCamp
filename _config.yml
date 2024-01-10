@@ -28,7 +28,7 @@ github_username: repooley
 
 
 # Build settings
-theme: architect
+theme: Architect
 plugins:
   - jekyll-feed
 
